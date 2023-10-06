@@ -35,6 +35,6 @@ POSDATA:
 Lo que me falto poner es el password verify.
 
 
-Se me elimino elemento de editar.php, tuve que hacer en WinRar. Espero que me validen 
+Profe Se me elimino elemento de editar.php, tuve que hacer es exportar en WinRar. Espero que me validen please!
 
 
