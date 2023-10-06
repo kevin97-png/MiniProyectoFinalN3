@@ -25,7 +25,7 @@ El usuario puede subir sus imagenes y puede actualizar sus datos.
 La contraseña esta hasheadas.
 
 
-Se me elimino elemento de editar.php, tuve que hacer en WinRar. Espero que me validen 
+
 Hice que cuando un nuevo usuario se registra en la foto le aparecera una 
 foto que dice agregar para que el agrege una foto.
 
@@ -33,3 +33,8 @@ En la vista del programa tiene un boton de dark mode, que me muestra la vista un
 
 POSDATA:
 Lo que me falto poner es el password verify.
+
+
+Se me elimino elemento de editar.php, tuve que hacer en WinRar. Espero que me validen 
+
+
