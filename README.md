@@ -24,6 +24,8 @@ Cada vista del programa es responsivo de 375px y de 1280px.
 El usuario puede subir sus imagenes y puede actualizar sus datos.
 La contraseña esta hasheadas.
 
+
+Se me elimino elemento de editar.php, tuve que hacer en WinRar. Espero que me validen 
 Hice que cuando un nuevo usuario se registra en la foto le aparecera una 
 foto que dice agregar para que el agrege una foto.
 
