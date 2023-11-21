@@ -31,10 +31,6 @@ foto que dice agregar para que el agrege una foto.
 
 En la vista del programa tiene un boton de dark mode, que me muestra la vista un lado oscuro y en el otro un modo claro.
 
-POSDATA:
-Lo que me falto poner es el password verify.
 
-
-Profe Se me elimino elemento de editar.php, tuve que hacer es exportar en WinRar. Espero que me validen please!
 
 
